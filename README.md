@@ -4,15 +4,15 @@
 
 ## Hello and Welcome!
 
-I'm David, a software engineer working in JavaScript, React, Redux, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
+I'm David. I am a software engineer at Nexient, LLC. I work in TypeScript, JavaScript, React, Redux, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
 
 I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
 
-I also love to talk about code: I work as a `Technical Coach` part-time for Flatiron School, where I pair program with students to guide them in solving coding problems through questions and by explaining coding concepts.
+I also love to talk about code: I used to work as a `Technical Coach` part-time for Flatiron School, where I would pair-program with students to guide them in solving coding problems through questions and by explaining coding concepts.
 
 ## Background
 
-I used to work in academic research, writing, and editing. I also studied and taught languages. Those skills transfer surprisingly well to coding:  
+Before I discovered software engineering, I used to work in academic research, writing, and editing. I also studied and taught languages. Those skills transfer surprisingly well to coding:  
 - ⚡ creativity in building new features
 - 🤔 logic used in control flow 
 - ✒️ syntax and editing  to write clear and clean code
