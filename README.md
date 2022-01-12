@@ -4,7 +4,7 @@
 
 ## Hello and Welcome!
 
-I'm David. I am a software engineer at Nexient, LLC. I work in TypeScript, JavaScript, React, Redux, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
+I'm David. I am a software engineer at Nexient, LLC. I work in TypeScript, JavaScript, React, Redux, Vue, Vuex, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
 
 I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
 
@@ -22,6 +22,8 @@ Before I discovered software engineering, I used to work in academic research, w
 I'm building out the basics of a Stoics Journal App, which shows a snippet of Stoic wisdom for a user to read and respond to with the in-app journal. The idea is to make it easy for people to engage with ancient texts and what they think about the ideas expressed. Todos for the app: I'm adding free translations of ancient Stoic texts by Marcus Aurelius, Epictetus, and Seneca. I've been working on formatting and persisting the texts as sections that serve as daily quotes. Next, I'll build a frontend to present a random quote for the user to read and to journal a response to, which can be saved in the API for the user to access later.
 
 I'm also working on updating the [My Bricks App](https://github.com/DavidRMorphew/my-bricks-app-frontend) to use context and React hooks patterns and to optimize my backend matching feature.
+
+More will be in the works soon.
 
 ## Contact
 📫 davidrmorphew at gmail dot com
