@@ -4,7 +4,7 @@
 
 ## Hello and Welcome!
 
-I'm David. I am a software engineer at Nexient, LLC. I work in TypeScript, JavaScript, React, Redux, Vue, Vuex, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
+I'm David. I am a software engineer at Launch/NTT Data (formerly Nexient, LLC). I work in TypeScript, JavaScript, React, Redux, Vue, Vuex, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
 
 I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
 
