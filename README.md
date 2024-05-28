@@ -4,7 +4,7 @@
 
 ## Hello and Welcome!
 
-I'm David. I am a software engineer at Launch/NTT Data (formerly Nexient, LLC). I work in TypeScript, JavaScript, React, Redux, Vue, Vuex, and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
+I'm David. I am a senior software engineer in the AI - ML -Data Transformation Department at NTT Data (formerly Nexient, LLC). I work with AI and Machine Learning tooling for Code Transformation and Acceleration, and in Data Analysis. I have a strong background in application engineering, particularly in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex), as well as in Python and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
 
 I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
 
