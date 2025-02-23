@@ -4,28 +4,30 @@
 
 ## Hello and Welcome!
 
-I'm David. I am a senior software engineer in the AI - ML -Data Transformation Department at NTT Data (formerly Nexient, LLC). I work with AI and Machine Learning tooling for Code Transformation and Acceleration, and in Data Analysis. I have a strong background in application engineering, particularly in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex), as well as in Python and Ruby on Rails (as well as SQL, ActiveRecord, HTML, and CSS).
+I'm David. I am an AI engineer and senior software engineer in the AI - ML - Data Transformation Department at NTT Data. I work to integrate AI and Machine Learning tooling for Code Transformation and Acceleration, and Data Analysis. I have a strong background in application engineering, particularly in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex), and in Python, Ruby on Rails, and SQL.
 
-I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges.
+I am currently working with a tech-stack of Python, PySpark Notebooks in Microsoft Fabric, React + Typescript, .NET (C#), SQL Server, and Microsoft Fabric database tables for AI Proof of Concept projects. I have previously also worked on UI builds for Retrieval Augmented Generate AI projects, and I build local AI tooling for task automation using locally hosted AI models via Ollama.
+
+I love building and brainstorming new projects, learning new languages and coding patterns, and puzzling through challenges. AI project open the door even wider.
 
 I also love to talk about code: I used to work as a `Technical Coach` part-time for Flatiron School, where I would pair-program with students to guide them in solving coding problems through questions and by explaining coding concepts.
 
 ## Background
 
-Before I discovered software engineering, I used to work in academic research, writing, and editing. I also studied and taught languages. Those skills transfer surprisingly well to coding:  
+Before I discovered software engineering, I earned a PhD in Classics and an MA in Philosophy, and I used to work in research, writing, and editing. I also studied and taught languages. Those skills transfer surprisingly well to coding:
+
 - ⚡ creativity in building new features
-- 🤔 logic used in control flow 
-- ✒️ syntax and editing  to write clear and clean code
+- 🤔 logic used in control flow
+- ✒️ syntax and editing to write clear and clean code
 
 ## In Progress
 
-I'm building out the basics of a Stoics Journal App, which shows a snippet of Stoic wisdom for a user to read and respond to with the in-app journal. The idea is to make it easy for people to engage with ancient texts and what they think about the ideas expressed. Todos for the app: I'm adding free translations of ancient Stoic texts by Marcus Aurelius, Epictetus, and Seneca. I've been working on formatting and persisting the texts as sections that serve as daily quotes. Next, I'll build a frontend to present a random quote for the user to read and to journal a response to, which can be saved in the API for the user to access later.
+I have a few private repos where I build out AI Chatbots and work on other AI projects.
 
-I'm also working on updating the [My Bricks App](https://github.com/DavidRMorphew/my-bricks-app-frontend) to use context and React hooks patterns and to optimize my backend matching feature.
-
-More will be in the works soon.
+In my public repos, I working on updating old apps, such as [My Bricks App](https://github.com/DavidRMorphew/my-bricks-app-frontend), which has a basic Ruby backend and algorithm search and React UI to help users catalogue the Lego sets they own and discover instructions for sets they can build with the bricks they already own.
 
 ## Contact
+
 📫 davidrmorphew at gmail dot com
 
 ## Links
