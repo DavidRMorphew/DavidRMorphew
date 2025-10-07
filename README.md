@@ -14,7 +14,7 @@ I also love to talk about code: I used to work as a `Technical Coach` part-time 
 
 ## Background
 
-Before I discovered software engineering, I earned a PhD in Classics and an MA in Philosophy, and I used to work in research, writing, and editing (Oxford Studies in Ancient Philosophy). I also studied and taught languages. Those skills transfer surprisingly well to coding:
+Before I discovered software engineering, I earned a PhD in Classics and an MA in Philosophy, and I used to work in research, writing, and editing (_Oxford Studies in Ancient Philosophy_). I also studied and taught languages. Those skills transfer surprisingly well to coding:
 
 - ⚡ creativity in building new features
 - 🤔 logic used in control flow
