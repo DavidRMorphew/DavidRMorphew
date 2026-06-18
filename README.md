@@ -4,7 +4,7 @@
 
 ## Hello and Welcome!
 
-I'm David. I am a Senior AI Engineer at Gentherm, and I previously worked as a Senior AI Engineer in the AI - ML - Data Transformation Department at NTT Data. I work to integrate AI and Machine Learning tooling for Code Transformation, Acceleration, and Data Analysis. I have a strong background in application engineering, particularly in Python, Ruby on Rails, SQL, and in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex).
+I'm David. I am a Senior AI Engineer at Gentherm, where I am responsible for AI development. I previously worked as a Senior AI Engineer in the AI - ML - Data Transformation Department at NTT Data. In general, I work to integrate AI and Machine Learning tooling for Code Transformation, Acceleration, and Data Analysis. I have a strong background in application engineering, particularly in Python, Ruby on Rails, SQL, and in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex).
 
 In my current work projects, I work with a tech stack of Python, PySpark Notebooks in Microsoft Fabric, Typescript + React. I have also worked with .NET (C#), SQL Server, and Microsoft Fabric Delta tables for AI Proof of Concept projects.
 
@@ -22,7 +22,7 @@ Before I discovered software engineering, I earned a PhD in Classics and an MA i
 
 ## In Progress
 
-I have a few private repos where I build out AI Chatbots and work on other AI Agentic projects.
+I have a few private repos where I build out AI coding agent setups, Chatbots, and work on other AI Agentic projects with RAG and other chained agent orchestration.
 
 I recently started a quick reverse-engineer build of gitMCP for local usage ([local-git-mcp](https://github.com/DavidRMorphew/local-git-mcp)).
 
@@ -40,15 +40,4 @@ In my public repos, I sometimes work on updating old apps, such as [My Bricks Ap
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://davidrmorphew.medium.com/">
-  <img
-    alt="blog"
-    src="https://img.shields.io/badge/-Blog-brightgreen?style=for-the-badge"
-  />
-</a>
-<a href="https://sites.google.com/view/david-ryan-morphew">
-  <img
-    alt="Website"
-    src="https://img.shields.io/badge/-Website-red?style=for-the-badge"
-  />
-</a>
+
