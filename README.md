@@ -6,7 +6,7 @@
 
 I'm David. I am a Senior AI Engineer at Gentherm, where I am responsible for AI development. I previously worked as a Senior AI Engineer in the AI - ML - Data Transformation Department at NTT Data. In general, I work to integrate AI and Machine Learning tooling for Code Transformation, Acceleration, and Data Analysis. I have a strong background in application engineering, particularly in Python, Ruby on Rails, SQL, and in JavaScript development (TypeScript, JavaScript, React, Redux, Vue, Vuex).
 
-In my current client projects, I work with a tech stack of Python, PySpark Notebooks in Microsoft Fabric, React + Typescript, .NET (C#), SQL Server, and Microsoft Fabric Delta tables for AI Proof of Concept projects. I recently built a PySpark implementation for batch processing unstructured data into structured data using LLMs. I previously also have worked on UI builds for Retrieval Augmented Generate AI projects, and I build local AI tooling for task automation using locally hosted AI models via Ollama.
+In my current work projects, I work with a tech stack of Python, PySpark Notebooks in Microsoft Fabric, Typescript + React. I have also worked with .NET (C#), SQL Server, and Microsoft Fabric Delta tables for AI Proof of Concept projects.
 
 I love building and brainstorming new projects with AI, learning new languages and coding patterns, and puzzling through challenges.
 
@@ -26,7 +26,7 @@ I have a few private repos where I build out AI coding agent setups, Chatbots, a
 
 I recently started a quick reverse-engineer build of gitMCP for local usage ([local-git-mcp](https://github.com/DavidRMorphew/local-git-mcp)).
 
-In my public repos, I working on updating old apps, such as [My Bricks App](https://github.com/DavidRMorphew/my-bricks-app-frontend), which has a basic Ruby backend and algorithm search and React UI to help users catalogue the Lego sets they own and discover instructions for sets they can build with the bricks they already own.
+In my public repos, I sometimes work on updating old apps, such as [My Bricks App](https://github.com/DavidRMorphew/my-bricks-app-frontend), which has a basic Ruby backend and algorithm search and React UI to help users catalogue the Lego sets they own and discover instructions for sets they can build with the bricks they already own.
 
 ## Contact
 
